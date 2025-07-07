@@ -1,16 +1,21 @@
-## Hi there 👋
+# Organización de repositorios por materia – UNLP
 
-<!--
-**AgusZK/AgusZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📘 Primer Año
 
-Here are some ideas to get you started:
+<a href="https://github.com/AgusZK/Taller-de-Programacion" target="_blank">
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Taller-de-Programacion&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Segundo Año
+
+<a href="https://github.com/AgusZK/AyED" target="_blank">
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=AyED&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF" />
+</a>
+
+<a href="https://github.com/AgusZK/FOD" target="_blank">
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=FOD&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF" />
+</a>
+
+<a href="https://github.com/AgusZK/Seminario-de-Lenguajes" target="_blank">
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Seminario-de-Lenguajes&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF" />
+</a>
