@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AgusZK/Taller-de-Programacion" target="_blank">
-    <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Taller-de-Programacion&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF" />
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Taller-de-Programacion&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF" />
   </a>
 </p>
 
