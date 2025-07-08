@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center">────────────────────────────────────────────────────────────────────────────────</p>
+<h2 align="center"></h2>
 
 <h3 align="center">📘 Segundo Año</h3>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<p align="center">────────────────────────────────────────────────────────────────────────────────</p>
+<h2 align="center"></h2>
 
 <h3 align="center">📘 Tercer Año </h3>
 
@@ -30,4 +30,3 @@
   ![Matematica-3](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Matematica-3&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)
 
 </div>
-
