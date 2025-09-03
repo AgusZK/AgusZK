@@ -26,8 +26,6 @@
 
 </div>
 
-<p align="center">────────────────────────────────────────────</p>
-
 <div align="center">
 
 [![OO1](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=OO1&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/OO1)
@@ -37,7 +35,6 @@
 [![ISO](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=ISO&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/ISO)
 &nbsp;&nbsp;&nbsp;
 [![Inge-1](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Inge-1&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/Inge-1)
-
 
 </div>
 
