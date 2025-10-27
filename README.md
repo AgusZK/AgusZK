@@ -2,48 +2,28 @@
 
 ---
 
-<h3 align="center">📘 Primer Año</h3>
+### 📘 Primer Año
 
-<div align="center">
-
-[![OC---Arqui](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Oc---Arqui&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/OC---Arqui.git)
-&nbsp;&nbsp;&nbsp;
-[![Taller-de-Programacion](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Taller-de-Programacion&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/Taller-de-Programacion)
-
-</div>
+[![OC---Arqui](https://img.shields.io/badge/OC--Arqui-Organización%20de%20Computadoras%20y%20Arquitectura-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/OC---Arqui)
+[![Taller-de-Programacion](https://img.shields.io/badge/Taller%20de%20Programación-Pascal%20%7C%20Java%20%7C%20Rinfo-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/Taller-de-Programacion)
 
 ---
 
-<h3 align="center">📘 Segundo Año</h3>
+### 📘 Segundo Año
 
-<div align="center">
+[![AyED](https://img.shields.io/badge/AyED-Algoritmos%20y%20Estructuras%20de%20Datos-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/AyED)
+[![FOD](https://img.shields.io/badge/FOD-Fundamentos%20de%20Organización%20de%20Datos-0B1120?style=for-the-badge&logo=pascal&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/FOD)
+[![Seminario-de-Lenguajes](https://img.shields.io/badge/Seminario%20de%20Lenguajes-Python-0B1120?style=for-the-badge&logo=python&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/Seminario-de-Lenguajes)
 
-[![AyED](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=AyED&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/AyED)
-&nbsp;&nbsp;&nbsp;
-[![FOD](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=FOD&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/FOD)
-&nbsp;&nbsp;&nbsp;
-[![Seminario-de-Lenguajes](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Seminario-de-Lenguajes&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/Seminario-de-Lenguajes)
-
-</div>
-
-<div align="center">
-
-[![OO1](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=OO1&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/OO1)
-&nbsp;&nbsp;&nbsp;
-[![DBD](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=DBD&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/DBD)
-<br/> </br>
-[![ISO](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=ISO&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/ISO)
-&nbsp;&nbsp;&nbsp;
-[![Inge-1](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Inge-1&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/Inge-1)
-
-</div>
+[![OO1](https://img.shields.io/badge/OO1-Orientación%20a%20Objetos%201-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/OO1)
+[![DBD](https://img.shields.io/badge/DBD-Diseño%20de%20Bases%20de%20Datos-0B1120?style=for-the-badge&logo=database&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/DBD)
+[![ISO](https://img.shields.io/badge/ISO-Introducción%20a%20Sistemas%20Operativos-0B1120?style=for-the-badge&logo=linux&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/ISO)
+[![Inge-1](https://img.shields.io/badge/Inge--1-Ingeniería%20de%20Software%201-0B1120?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/Inge-1)
 
 ---
 
-<h3 align="center">📘 Tercer Año</h3>
+### 📘 Tercer Año
 
-<div align="center">
+[![Matematica-3](https://img.shields.io/badge/Matemática--3-Probabilidad%20y%20Estadística-0B1120?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0B1120&color=3CA4FF)](https://github.com/AgusZK/Matematica-3)
 
-[![Matematica-3](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AgusZK&repo=Matematica-3&theme=midnight-purple&bg_color=0B1120&icon_color=3CA4FF&title_color=7FDBFF&text_color=FFFFFF&show_icons=false&border_color=1E90FF)](https://github.com/AgusZK/Matematica-3)
-
-</div>
+---
