@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![OC---Arqui](https://img.shields.io/badge/OC--Arqui-Organización%20de%20Computadoras%20y%20Arquitectura-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=6CB4EE)](https://github.com/AgusZK/OC---Arqui)
-[![Taller-de-Programacion](https://img.shields.io/badge/Taller%20de%20Programación-Pascal%20%7C%20Java%20%7C%20Rinfo-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=6CB4EE)](https://github.com/AgusZK/Taller-de-Programacion)
+[![OC---Arqui](https://img.shields.io/badge/OC--Arqui-Organización%20de%20Computadoras%20y%20Arquitectura-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=FF6B6B)](https://github.com/AgusZK/OC---Arqui)
+[![Taller-de-Programacion](https://img.shields.io/badge/Taller%20de%20Programación-Pascal%20%7C%20Java%20%7C%20Rinfo-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=FF6B6B)](https://github.com/AgusZK/Taller-de-Programacion)
 
 </div>
 
@@ -34,6 +34,6 @@
 
 <div align="center">
 
-[![Matematica-3](https://img.shields.io/badge/Matemática--3-Probabilidad%20y%20Estadística-0B1120?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0B1120&color=00C896)](https://github.com/AgusZK/Matematica-3)
+[![Matematica-3](https://img.shields.io/badge/Matemática--3-Probabilidad%20y%20Estadística-0B1120?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/Matematica-3)
 
 </div>
