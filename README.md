@@ -1,6 +1,4 @@
-<h3 align="center">Organización de repositorios para las materias - UNLP Informática</h3>
-
----
+<h2 align="center"></h2>
 
 <h3 align="center">🖨️ Primer Año</h3>
 
