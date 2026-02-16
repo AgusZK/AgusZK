@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">📘 Primer Año</h3>
+<h3 align="center">🖨️ Primer Año</h3>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 <h2 align="center"></h2>
 
-<h3 align="center">📕 Segundo Año</h3>
+<h3 align="center">💻 Segundo Año</h3>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 <h2 align="center"></h2>
 
-<h3 align="center">📗 Tercer Año</h3>
+<h3 align="center">🖥️ Tercer Año</h3>
 
 <div align="center">
 
