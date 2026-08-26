@@ -37,6 +37,8 @@
 [![Inge-2](https://img.shields.io/badge/Inge--2-Ingeniería%20de%20Software%202-0B1120?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/Inge-2)
 [![Matematica-3](https://img.shields.io/badge/Matemática--3-Probabilidad%20y%20Estadística-0B1120?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/Matematica-3)
 
+[![RyC](https://img.shields.io/badge/RyC-Redes%20y%20Comunicaciones-0B1120?style=for-the-badge&logo=linux&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/RyC)
+
 </div>
 
 </div>
