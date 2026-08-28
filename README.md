@@ -38,6 +38,8 @@
 [![Matematica-3](https://img.shields.io/badge/Matemática--3-Probabilidad%20y%20Estadística-0B1120?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/Matematica-3)
 
 [![RyC](https://img.shields.io/badge/RyC-Redes%20y%20Comunicaciones-0B1120?style=for-the-badge&logo=linux&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/RyC)
+[![CONCU](https://img.shields.io/badge/CONCU-Programación%20Concurrente-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/CONCU)
+
 
 </div>
 
