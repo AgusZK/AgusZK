@@ -39,7 +39,7 @@
 
 [![RyC](https://img.shields.io/badge/RyC-Redes%20y%20Comunicaciones-0B1120?style=for-the-badge&logo=linux&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/RyC)
 [![CONCU](https://img.shields.io/badge/CONCU-Programación%20Concurrente-0B1120?style=for-the-badge&logo=java&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/CONCU)
-
+[![PS](https://img.shields.io/badge/PS-Proyecto%20de%20Software-0B1120?style=for-the-badge&logo=linux&logoColor=white&labelColor=0B1120&color=9B5DE5)](https://github.com/AgusZK/PS)
 
 </div>
 
